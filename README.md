@@ -20,10 +20,6 @@ Focused on clean UI, scalable systems and maintainable code.
 
 <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,mysql,postgres,mongodb,supabase,redis" />
 
-### FiveM
-
-<img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql" />
-
 ### DevOps & Tools
 
 <img src="https://skillicons.dev/icons?i=docker,nginx,vercel,git,github,githubactions,debian,ubuntu,windows" />
