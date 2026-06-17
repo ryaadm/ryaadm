@@ -1,16 +1,35 @@
-## Hi there 👋
 
-<!--
-**ryaadm/ryaadm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+# RyadM
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Full stack web developer building modern interfaces, backend tools and FiveM resources.  
+Focused on clean UI, scalable systems and maintainable code.
+
+<br/>
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=ts,js,lua,python,php,html,css" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,vue,angular,vite,tailwind,sass,mui" />
+
+### Backend & Data
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,graphql,prisma,mysql,postgres,mongodb,supabase,redis" />
+
+### FiveM
+
+<img src="https://skillicons.dev/icons?i=lua,js,html,css,mysql" />
+
+### DevOps & Tools
+
+<img src="https://skillicons.dev/icons?i=docker,nginx,vercel,git,github,githubactions,debian,ubuntu,windows" />
+
+### Quality & Workflow
+
+<img src="https://skillicons.dev/icons?i=eslint,prettier,postman,vitest,figma,photoshop,vscode,webstorm" />
+
+</div>
